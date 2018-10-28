@@ -5,3 +5,4 @@ create new branch
 Creating a new branch is quick and simple.
 git sign
 git sign test
+Add password to mac key chains
